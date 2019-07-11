@@ -4,11 +4,11 @@
 }
 ul{
     display:flex;
-    width: 500rem;height: 50px;
+    width: 900rem;height: 50px;
     list-style-type: none;
 }
 li{
-       
+    width: 10rem;
     height: 100%;
     box-sizing: border-box;
 }
